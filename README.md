@@ -22,6 +22,6 @@ This application serves as the backend server for the Kennect Assignment Fronten
    - **DB_DATABASE=userposts**
    - **DB_PASSWORD=(whatever password you provided while setting up the database in pgAdmin)**
 4. Run `npm install` to install all the necessary packages.
-5. Run `npm start` to run the application.
+5. Run `npm run dev` to run the application.
 
 Note: You can test the APIs using postman.
