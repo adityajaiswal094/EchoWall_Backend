@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Aditya Jaiswal",
+    "username": "adityaj",
+    "content": "Just discovered an amazing coding hack today! #programming #codinglife",
+    "comments": [
+      {
+        "id": 1,
+        "name": "Jacob",
+        "username": "jacob99",
+        "comment": "Nice post"
+      },
+      { "id": 2, "name": "Layla", "username": "layla", "comment": "Good one" },
+      {
+        "id": 3,
+        "name": "Hanna",
+        "username": "hanna99",
+        "comment": "Nice post. Ha hahaha. La la land!!"
+      },
+      {
+        "id": 4,
+        "name": "Laurence",
+        "username": "laurence99",
+        "comment": "Letzzz gooooooooo!!!!!!!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aditya Jaiswal",
+    "username": "adityaj",
+    "content": "Exploring the world of machine learning. Fascinating stuff! #AI #MachineLearning",
+    "comments": []
+  },
+  {
+    "id": 3,
+    "name": "Aditya Jaiswal",
+    "username": "adityaj",
+    "content": "Traveling to Japan next week! Any recommendations for must-visit places?",
+    "comments": []
+  },
+  {
+    "id": 4,
+    "name": "Aditya Jaiswal",
+    "username": "adityaj",
+    "content": "Finished reading a fantastic book - highly recommend it to everyone! #BookRecommendation",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "name": "Aditya Jaiswal",
+    "username": "adityaj",
+    "content": "Started a new workout routine and feeling amazing! #FitnessJourney #HealthyLifestyle",
+    "comments": []
+  },
+  {
+    "id": 6,
+    "name": "Aria Smith",
+    "username": "ariasmith23",
+    "content": "Just finished an amazing hike up the mountains! The view was breathtaking. 🏔️ #NatureLover",
+    "comments": []
+  },
+  {
+    "id": 7,
+    "name": "Elijah Rodriguez",
+    "username": "eli_rodriguez",
+    "content": "Coding all night to bring a new AI chatbot to life. 🤖 Can't wait to see it in action! #AI #CodingLife",
+    "comments": []
+  },
+  {
+    "id": 8,
+    "name": "Sophie Nguyen",
+    "username": "soph_nguyen",
+    "content": "Started learning pottery today! Getting my hands dirty in a beautiful way. #ArtTherapy",
+    "comments": []
+  },
+  {
+    "id": 9,
+    "name": "Oliver Thompson",
+    "username": "ot_oliver",
+    "content": "Just tried skydiving for the first time. Heart-pounding adrenaline rush! #Skydiving #Adventure",
+    "comments": []
+  },
+  {
+    "id": 10,
+    "name": "Zara Patel",
+    "username": "zara_p",
+    "content": "Incredible experience volunteering at the local animal shelter today. Animals are pure joy! 🐾 #Volunteer",
+    "comments": []
+  },
+  {
+    "id": 11,
+    "name": "Noah Garcia",
+    "username": "noahgarcia",
+    "content": "Published my first poetry book! Excited and nervous about the feedback. #PoetryCommunity",
+    "comments": []
+  },
+  {
+    "id": 12,
+    "name": "Luna Johnson",
+    "username": "lunaj",
+    "content": "Successfully completed a 10-day meditation challenge. Feeling calm and centered. #Mindfulness",
+    "comments": []
+  },
+  {
+    "id": 13,
+    "name": "Maxwell Lee",
+    "username": "max_lee",
+    "content": "Visited a hidden gem café today. Their coffee is out of this world! ☕️ #CoffeeLover",
+    "comments": []
+  },
+  {
+    "id": 14,
+    "name": "Isabella Wright",
+    "username": "bellawright",
+    "content": "Celebrating my graduation today! Hard work pays off. 🎓🎉 #ClassOf2023",
+    "comments": []
+  },
+  {
+    "id": 15,
+    "name": "Lucas Carter",
+    "username": "lucas_carter",
+    "content": "New personal record at the gym! Progress feels amazing. 💪 #FitnessGoals",
+    "comments": []
+  },
+  {
+    "id": 16,
+    "name": "Mia Thompson",
+    "username": "miathompson",
+    "content": "Spent the day learning calligraphy. Art in every stroke! 🖋️ #ArtisticSoul",
+    "comments": []
+  },
+  {
+    "id": 17,
+    "name": "Ethan Wilson",
+    "username": "ethan_w",
+    "content": "Cooked my first homemade lasagna. It turned out surprisingly delicious! #CookingAdventures",
+    "comments": []
+  },
+  {
+    "id": 18,
+    "name": "Ava Martinez",
+    "username": "ava_m",
+    "content": "Attended a captivating TEDx talk today. Inspired and motivated! 🎤 #TEDx",
+    "comments": []
+  },
+  {
+    "id": 19,
+    "name": "Jackson Brown",
+    "username": "jackson_b",
+    "content": "Stargazing night with friends. The universe is a beautiful mystery. ✨ #StarryNight",
+    "comments": []
+  },
+  {
+    "id": 20,
+    "name": "Chloe Adams",
+    "username": "chloeadams",
+    "content": "Learning to play the piano. Music is therapy for the soul. 🎹🎶 #MusicLover",
+    "comments": []
+  },
+  {
+    "id": 21,
+    "name": "Daniel White",
+    "username": "danielw",
+    "content": "Traveled to Japan and tried authentic ramen. A taste sensation! 🍜 #TravelDiaries",
+    "comments": []
+  },
+  {
+    "id": 22,
+    "name": "Emily Harris",
+    "username": "emilyharris",
+    "content": "Started a new book club! Excited for literary discussions ahead. 📚 #Bookworm",
+    "comments": []
+  },
+  {
+    "id": 23,
+    "name": "Gabriel Lopez",
+    "username": "g_lopez",
+    "content": "Attended an art exhibit showcasing modern abstract art. Mind-bending creativity! 🎨 #ArtAppreciation",
+    "comments": []
+  },
+  {
+    "id": 24,
+    "name": "Natalie Clark",
+    "username": "natclark",
+    "content": "Binge-watched a fascinating documentary series. Learning is endless! 📺 #Documentaries",
+    "comments": []
+  },
+  {
+    "id": 25,
+    "name": "Oscar Ramirez",
+    "username": "oscar.ramirez",
+    "content": "Completed my first marathon! Determination pays off. 🏃‍♂️💨 #MarathonRunner",
+    "comments": []
+  }
+]
