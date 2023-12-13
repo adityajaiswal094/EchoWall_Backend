@@ -1,4 +1,6 @@
-# Kennect Assignment Backend
+# EchoWall
+
+## Kennect Assignment Backend
 
 ## About this application
 
