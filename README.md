@@ -1,7 +1,5 @@
 # EchoWall
 
-## Kennect Assignment Backend
-
 ## About this application
 
 This application serves as the backend server for the Kennect Assignment Frontend which mimics the feature of a social media application where you can post text posts and comment on posts as well.
